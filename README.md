@@ -31,3 +31,4 @@ See https://github.com/primefaces/primeng-quickstart-cli/tree/master
 See https://www.primefaces.org/primeng-v14-lts/table/filter
 See https://github.com/primefaces/primeng-examples
 See https://primeflex.org/
+See https://github.com/primefaces/primeng/tree/master/src/app/showcase
