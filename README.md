@@ -32,3 +32,5 @@ See https://www.primefaces.org/primeng-v14-lts/table/filter
 See https://github.com/primefaces/primeng-examples
 See https://primeflex.org/
 See https://github.com/primefaces/primeng/tree/master/src/app/showcase
+
+See https://edupala.com/how-to-implement-an-angular-search-filter-in-angular/
