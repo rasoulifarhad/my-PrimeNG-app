@@ -19,9 +19,11 @@ import { RadioButtonModule } from 'primeng/radiobutton';
 import { RatingModule } from 'primeng/rating';
 import { ToolbarModule } from 'primeng/toolbar';
 import { ConfirmationService, MessageService } from 'primeng/api';
+import { TableFilterComponent } from './table-filter/table-filter.component';
+import { TableToolbarComponent } from './table-toolbar/table-toolbar.component';
 
 @NgModule({
-  declarations: [AppComponent],
+  declarations: [AppComponent, TableFilterComponent, TableToolbarComponent],
   imports: [
     AppRoutingModule,
     AccordionModule,
