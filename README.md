@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+See https://www.primefaces.org/primeng-v14-lts/setup
+See https://github.com/primefaces/primeng-quickstart-cli/tree/master
+See https://www.primefaces.org/primeng-v14-lts/table/filter
+See https://github.com/primefaces/primeng-examples
+See https://primeflex.org/
