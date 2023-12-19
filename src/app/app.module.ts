@@ -21,6 +21,13 @@ import { ToolbarModule } from 'primeng/toolbar';
 import { ConfirmationService, MessageService } from 'primeng/api';
 import { TableFilterComponent } from './table-filter/table-filter.component';
 import { TableToolbarComponent } from './table-toolbar/table-toolbar.component';
+import { MultiSelectModule } from 'primeng/multiselect';
+import { ContextMenuModule } from 'primeng/contextmenu';
+import { ProgressBarModule } from 'primeng/progressbar';
+import { ToastModule } from 'primeng/toast';
+import { CalendarModule } from 'primeng/calendar';
+import { SliderModule } from 'primeng/slider';
+
 
 @NgModule({
   declarations: [AppComponent, TableFilterComponent, TableToolbarComponent],
@@ -43,6 +50,12 @@ import { TableToolbarComponent } from './table-toolbar/table-toolbar.component';
     RadioButtonModule,
     DropdownModule,
     ButtonModule,
+    MultiSelectModule,
+    ContextMenuModule,
+    ProgressBarModule,
+    ToastModule,
+    CalendarModule,
+    SliderModule
   ],
   providers: [ConfirmationService, MessageService],
   bootstrap: [AppComponent],
